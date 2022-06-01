@@ -1,7 +1,7 @@
 # Azure-practica-2-VM
 Creación de una máquina virtual en Azure
 
-![Logo de Wordpress](https://github.com/AlanAlvaradoR/Azure-practica-2-VM/blob/main/imagenes/wordpress.png)
+![Logo de VM](https://github.com/AlanAlvaradoR/Azure-practica-2-VM/blob/main/imagenes/VM.jpg)
 
 ## Requisitos
 
