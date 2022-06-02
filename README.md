@@ -40,7 +40,7 @@ En esta parte es necesario colocar el nombre de la máquina virtual, la región,
 
 - En la siguiente ventana esperamos a que se nos habilite el botón de "crear" y procedemos a presionarlo.
 
-![P2-6](https://github.com/AlanAlvaradoR/Azure-practica-2-VM/blob/main/imagenes/P2-6.PNG)
+![p2-6](https://github.com/AlanAlvaradoR/Azure-practica-2-VM/blob/main/imagenes/p2-6.PNG)
 
 - Se nos mostrará una pestaña donde nos informa el estado de la creación de la máquina virtual, esperemos a que termine.
 
